@@ -4,7 +4,7 @@ This repository contains a data analysis and machine learning project aimed at p
 <h2>Overview 📋</h2><br>
 When the Titanic sank, it resulted in a tragic loss of life. However, historical data from the disaster provides valuable insights into factors that influenced survival, such as age, gender, ticket class, and family size.<br>
 
-This project explores the Titanic dataset to:<br>
+<h3>This project explores the Titanic dataset to:</h3><br>
 <b>
 Analyze the survival patterns through data visualization.<br>
 Build predictive models to estimate the chances of survival for passengers.<br>
