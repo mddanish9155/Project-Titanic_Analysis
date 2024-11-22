@@ -1,7 +1,7 @@
 # <h1>Predicting Survival on the Titanic 🚢💡</h1>
 This repository contains a data analysis and machine learning project aimed at predicting passenger survival on the Titanic. The project uses the famous Titanic dataset to analyze survival patterns and build a predictive model using Python.<br>
 
-</h2>Overview 📋</h2><br>
+<h2>Overview 📋</h2><br>
 When the Titanic sank, it resulted in a tragic loss of life. However, historical data from the disaster provides valuable insights into factors that influenced survival, such as age, gender, ticket class, and family size.<br>
 
 This project explores the Titanic dataset to:<br>
